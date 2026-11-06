@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 760" role="img" aria-label="咖啡拿鐵插畫">
+<defs><linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#f2e9d8"/><stop offset="1" stop-color="#e7d7b8"/></linearGradient><radialGradient id="foam"><stop stop-color="#f5e3c7"/><stop offset=".68" stop-color="#e4b780"/><stop offset=".87" stop-color="#a65c35"/><stop offset="1" stop-color="#754629"/></radialGradient><linearGradient id="cup" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#fffefa"/><stop offset=".66" stop-color="#ebe5d5"/><stop offset="1" stop-color="#cbc3b4"/></linearGradient><filter id="soft"><feGaussianBlur stdDeviation="18"/></filter><filter id="grain"><feTurbulence type="fractalNoise" baseFrequency=".65" numOctaves="3" seed="4" result="noise"/><feColorMatrix in="noise" type="saturate" values="0"/><feComponentTransfer><feFuncA type="linear" slope=".07"/></feComponentTransfer><feBlend in="SourceGraphic" mode="multiply"/></filter></defs>
+<path d="M184 100C270 27 500 50 650 163S809 471 633 619 295 737 151 625 41 230 184 100Z" fill="url(#bg)"/>
+<g opacity=".42"><path d="M108 241c150-210 394-201 587-94" fill="none" stroke="#fff7e6" stroke-width="30" stroke-linecap="round"/><path d="M82 570c180 93 435 101 630-27" fill="none" stroke="#d8c39e" stroke-width="24" stroke-linecap="round"/></g>
+<ellipse cx="423" cy="548" rx="225" ry="56" fill="#74634d" opacity=".21" filter="url(#soft)"/>
+<g transform="rotate(-10 421 380)">
+<ellipse cx="423" cy="432" rx="225" ry="218" fill="#d2c7b6" opacity=".42"/>
+<ellipse cx="407" cy="389" rx="211" ry="210" fill="url(#cup)" stroke="#e7e1d8" stroke-width="11"/>
+<path d="M572 314c88-30 118 90 48 131-20 11-40 8-55-2" fill="none" stroke="#d7d0c3" stroke-width="42" stroke-linecap="round"/>
+<path d="M568 316c68-29 96 62 42 91-17 9-26 5-41-1" fill="none" stroke="#f6f3eb" stroke-width="29" stroke-linecap="round"/>
+<ellipse cx="403" cy="388" rx="179" ry="177" fill="#efdfcd"/>
+<ellipse cx="403" cy="388" rx="168" ry="166" fill="url(#foam)"/>
+<ellipse cx="406" cy="389" rx="155" ry="153" fill="none" stroke="#eac89d" stroke-width="6" opacity=".8"/>
+<path d="M405 472c-15-21-72-31-87-79-8-25 7-46 32-42 22 3 39 22 55 45 15-24 33-43 56-46 33-2 47 35 25 61-21 26-55 38-81 61Z" fill="#f8e8ce"/>
+<path d="M403 465c-10-25-31-53-72-76M406 465c6-26 33-57 72-77M405 460c-2-51 0-96 0-136" fill="none" stroke="#a66541" stroke-width="5" stroke-linecap="round"/>
+<path d="M335 347c34 0 50 18 70 40 19-25 38-44 69-42" fill="none" stroke="#fff2d9" stroke-width="14" stroke-linecap="round"/>
+<path d="M328 383c29-3 50 9 78 40 25-28 48-40 78-40" fill="none" stroke="#fff1d6" stroke-width="11" stroke-linecap="round"/>
+<path d="M343 418c23 3 46 13 64 33 16-22 40-33 63-34" fill="none" stroke="#fff0d4" stroke-width="9" stroke-linecap="round"/>
+</g>
+<g fill="#68462f"><path d="M163 597c-18-9-32-32-20-53 11-18 40-13 50 0 14 20-4 45-30 53Z"/><path d="M163 546c-11 18-1 30 1 43" stroke="#ad8462" fill="none" stroke-width="3"/><path d="M585 157c-25-14-27-34-11-46 15-11 39 2 40 16 2 15-14 26-29 30Z"/><path d="M579 116c8 10 16 22 15 31" stroke="#b78c67" fill="none" stroke-width="3"/><path d="M648 551c-21-17-20-37-1-45 19-7 39 9 35 26-4 16-18 20-34 19Z"/><path d="M653 512c7 10 10 22 8 30" fill="none" stroke="#b78c67" stroke-width="3"/></g>
+<g fill="#c58957" opacity=".7"><circle cx="177" cy="190" r="5"/><circle cx="639" cy="233" r="4"/><circle cx="671" cy="466" r="5"/><circle cx="245" cy="646" r="3"/><circle cx="117" cy="437" r="4"/></g>
+<g stroke="#839b7a" stroke-width="7" fill="none" stroke-linecap="round"><path d="M126 438c-30-31-53-46-84-47M128 437c-42-6-70 2-96 19M126 439c-16-49-16-74-6-105"/><path d="M650 289c31-29 53-42 88-37M648 292c42 6 64 19 83 46"/></g><g fill="#9db48a"><ellipse cx="75" cy="393" rx="33" ry="13" transform="rotate(29 75 393)"/><ellipse cx="73" cy="452" rx="35" ry="13" transform="rotate(-24 73 452)"/><ellipse cx="120" cy="358" rx="33" ry="13" transform="rotate(-80 120 358)"/><ellipse cx="705" cy="253" rx="30" ry="12" transform="rotate(-18 705 253)"/><ellipse cx="708" cy="330" rx="27" ry="12" transform="rotate(37 708 330)"/></g>
+</svg>
